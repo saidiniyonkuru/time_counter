@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    top:50px;
+    height: 100px;
+    width:100px;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.tim{   
+     margin: 15rem 20rem;
+    background-color: orangered;
+    width: 13.7rem;
+    height: 4.2rem;
+    font-size: 3.8rem;
+    padding-top: 1px;
+    border-radius:9px 0 0 9px;
+    color: aliceblue;
+    box-shadow: 0 3px 2px 1px rgba(0,0,0.5);
+}
+.merid{
+    margin: -19.2rem 34rem;
+    background-color: rgb(6, 48, 83);
+    font-size: 3.1rem;
+    width: 5.3rem;
+    height: 4.2rem;
+    padding: 0.3rem 2px;
+    color: aliceblue;
+    border-radius:0 9px 9px 0;
+    font-family: verdana;
+    box-shadow: 0 3px 2px 1px rgb(179, 118, 38);
+}
